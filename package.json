@@ -33,10 +33,6 @@
     "test": "echo \"No test specified\"",
     "contrib": "gulp"
   },
-  "dependencies": {
-    "bourbon": "^4.2",
-    "node-sass": "^3.4"
-  },
   "devDependencies": {
     "gulp": "^3.9",
     "gulp-autoprefixer": "^3.1",
